@@ -18,3 +18,4 @@ This project used SQL to explore a sample database (Sakila) related to movie ren
 ## References
 * Udacity Programming for Data Science with Python curriculum.
 * Sakila Sample Database.
+* PostgreSQL documentation.
