@@ -1,10 +1,10 @@
 This project used SQL to explore a sample database (Sakila) related to movie rentals.
 
-# Skills
+## Skills
 * SQL, PostgresSQL, relational databases.
 
 
-# Objectives and Tasks
+## Objectives and Tasks
 * Database familization.
 * Write and run SQL queries to answer interesting questions about the database.
 * Build visualizations to illustrate query results.
